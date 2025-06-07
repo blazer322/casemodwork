@@ -1,0 +1,12 @@
+
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+[[mods]]
+modId="casemod"
+version="1.0"
+displayName="Blazer Case Mod"
+authors="Blazer"
+description='''
+Adds 5 unique cases with loot and sounds.
+'''
